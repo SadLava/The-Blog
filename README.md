@@ -1,3 +1,3 @@
-# The-Blog
-My Blog
-It's testing.
+# Blog
+
+Test
